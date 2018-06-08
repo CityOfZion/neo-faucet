@@ -9,7 +9,7 @@ Install:
 4. `python3 -m venv venv`
 5. `source venv/bin/activate`
 6. install neo-python locally to this project: `pip install -e ../neo-python`
-7. install rest of requirements `pip install -r requirements.tx`
+7. install rest of requirements `pip install -r requirements.txt`
 8. get a wallet of your private net with a lot of stuff in it
 9. export the wallet path and password as ENV vars
 ```
